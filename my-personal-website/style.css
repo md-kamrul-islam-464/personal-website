@@ -1,0 +1,117 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-name{
+     color:rgb(144, 42, 165);
+     font-weight: 700;
+
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(brown, rgb(165, 42, 101));
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 5%;
+    
+
+}
+
+.half-width img {
+
+    width: 80%;
+}
+
+#design{
+    padding-top: 15%;
+}
+
+.top-banner{
+
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+section{
+    height: 500px;
+    padding-bottom: 20px;
+}
+
+.biography-bg{
+
+    background-image: url("biography-bg.png");
+
+}
+
+
+
+
+.latest-work{
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.latest-work-bg{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+img{
+    width: 250px;
+    padding: 20px;
+    margin:10px;
+    margin-top: 15px;
+    display: inline;
+
+}
+
+
+footer-bg{
+    background-image: url("footer-bg.png");
+    
+}
+
+.founder-ceo-alies{
+    color: rgba(129, 108, 54, 0.685);
+}
+
+h6{
+    color: rgb(104, 108, 106);
+}
+
+.bruce-moccy-h6{
+    margin: 0;
+    padding: auto;
+
+}
+
+.last{
+
+    text-align: center;
+}
+
+.link-button-last{
+    text-decoration: none;
+    background-image: linear-gradient(brown, rgb(165, 42, 101));
+    padding: 30px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+
+}
